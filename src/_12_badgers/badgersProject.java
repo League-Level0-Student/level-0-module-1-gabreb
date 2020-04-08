@@ -20,5 +20,8 @@ public class badgersProject {
 			}
 			
 		}
+		for (int x = 0; x < 4; x++) {
+			System.out.println("ooh a snake");
+		}
 	}
 }
