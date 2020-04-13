@@ -2,7 +2,7 @@ package _12_badgers;
 
 public class badgersProject {
 	public static void main(String[] args) {
-		for (int z = 0; z > -1; z++) {
+		for (int z = 0; z < 2; z++) {
 		for (int x = 0; x < 3; x++) {
 			
 				for (int i = 0; i < 12; i++) {
